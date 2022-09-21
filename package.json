@@ -1,6 +1,6 @@
 {
   "name": "shopify-verify-app-proxy-middleware",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Express middleware to verify requests coming from your shopify app proxy",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
